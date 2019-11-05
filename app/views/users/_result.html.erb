@@ -20,7 +20,7 @@
       <%= link_to "Add to my stocks", user_stocks_path(user: current_user, stock_ticker: @stock.ticker), class: "btn btn-xs btn-success", method: :post %>
     <% else %>
       <span class="label label-default">
-        Stock cannot be added because you have already 
+        Stock cannot be added because you have already
         <% if !current_user.under_stock_limit? %>
           10 stocks
         <% end %>
