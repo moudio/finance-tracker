@@ -51,7 +51,7 @@ bundle install
 You can start the rails server using the command given below.
 
 ```ruby
-bundle exec rails s
+rails s
 ```
 
 And now you can visit the site with the URL http://localhost:3000
