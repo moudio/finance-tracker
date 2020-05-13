@@ -35,7 +35,7 @@ The setups steps expect following tools installed on the system.
 ##### 1. Check out the repository
 
 ```bash
-git clone git@github.com:MouhaDiouf/alpha-blog.git
+git clone git@github.com:MouhaDiouf/finance-tracker.git
 ```
 
 ##### 2. Install gems
