@@ -56,6 +56,17 @@ rails s
 
 And now you can visit the site with the URL http://localhost:3000
 
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+1. Fork it (https://github.com/MouhaDiouf/finance-tracker)
+2. Create your feature branch (git checkout -b feature/[choose-a-name])
+3. Commit your changes (git commit -am 'What this commit will fix/add')
+4. Push to the branch (git push origin feature/[chosen name])
+5. Create a new Pull Request
+
+
 ## Show your support
 
 Give a ⭐️ if you like this project!
