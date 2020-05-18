@@ -13,7 +13,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://myalphamo.herokuapp.com/)
+[Live Demo Link](https://mo-finance-tracker.herokuapp.com)
 
 
 ## Author
